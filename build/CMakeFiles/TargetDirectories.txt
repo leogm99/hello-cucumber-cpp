@@ -1,0 +1,4 @@
+/home/leogm99/Escritorio/aninfo/hello_cucumber_cpp/build/CMakeFiles/rebuild_cache.dir
+/home/leogm99/Escritorio/aninfo/hello_cucumber_cpp/build/CMakeFiles/edit_cache.dir
+/home/leogm99/Escritorio/aninfo/hello_cucumber_cpp/build/CMakeFiles/GTestCalculatorSteps.dir
+/home/leogm99/Escritorio/aninfo/hello_cucumber_cpp/build/CMakeFiles/Calc.dir

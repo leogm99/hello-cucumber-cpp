@@ -1,0 +1,18 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/leogm99/Escritorio/aninfo/hello_cucumber_cpp/src/Calculator.cpp
+limits
+-
+Calculator.h
+/home/leogm99/Escritorio/aninfo/hello_cucumber_cpp/src/Calculator.h
+
+/home/leogm99/Escritorio/aninfo/hello_cucumber_cpp/src/Calculator.h
+list
+-
+

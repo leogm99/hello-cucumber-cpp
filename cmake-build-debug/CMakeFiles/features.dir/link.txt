@@ -1,0 +1,2 @@
+/usr/bin/ar qc libfeatures.a CMakeFiles/features.dir/features/step_definitions/GTestSetOperatorSteps.cpp.o CMakeFiles/features.dir/features/step_definitions/SetOperatorSteps.cpp.o
+/usr/bin/ranlib libfeatures.a

@@ -1,0 +1,2 @@
+/usr/bin/ar qc libSetOperator.a CMakeFiles/SetOperator.dir/src/SetOperator.cpp.o
+/usr/bin/ranlib libSetOperator.a
